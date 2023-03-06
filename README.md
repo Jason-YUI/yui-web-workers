@@ -1,1 +1,2 @@
-# yui-web-workers
+# web-workers
+the demo of web workers
